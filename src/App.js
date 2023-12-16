@@ -4,6 +4,8 @@ import Login from './components/pages/Auth/Login'
 import Navbar from './layout/Navbar/Navbar'
 import Titulo from './layout/Pages/Titulo'
 import QuemSouEu from './layout/Pages/QuemSouEu'
+import Icon from './layout/Pages/Icon'
+import Experiences from './layout/Pages/Experiences'
 
 function App() {
   return (
@@ -11,6 +13,8 @@ function App() {
       <Navbar/>
       <Titulo/>
       <QuemSouEu/>
+      <Icon/>
+      <Experiences/>
     </Router>
   );
 }

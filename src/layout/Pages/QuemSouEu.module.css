@@ -18,12 +18,14 @@
 }
 
 h1{
-    font-size: 45px;
+    font-size: 42px;
+    font-weight: bold;
+    
 }
 
 p{
     font-size: 23px;
-    margin: 0;
+    margin: 15px 0;
     line-height: 130%;
     
 }

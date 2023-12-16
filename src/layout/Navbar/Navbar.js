@@ -9,13 +9,13 @@ function Navbar() {
             </div>
             <ul className={style.ul}>
                 <li className={style.li}>
-                    <Link to='/' className={style.ul}>Quem sou eu</Link>
+                    <Link to='/' className={style.ul}><spam className={style.menuTitulo}>Quem sou eu</spam></Link>
                 </li>
                 <li className={style.li}>
-                    <Link to='/login'>Trabalhos</Link>
+                    <Link to='/login'><spam className={style.menuTitulo}>Trabalhos </spam></Link>
                 </li>
                 <li className={style.li}>
-                    <Link to='/register'>Contato</Link>
+                    <Link to='/register'><spam className={style.menuTitulo}>Contato</spam></Link>
                 </li>
             </ul>
         </nav>
