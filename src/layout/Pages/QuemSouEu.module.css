@@ -1,0 +1,29 @@
+/* CSS DO MÓDULO QUEM SOU EU */
+
+.divMain{
+    width: 90%;
+    margin:0 auto;
+
+}
+
+.divTitle{
+    width: 40%;
+    margin: 0 30px 15px;
+}
+
+.divText{
+    margin: 0 38px;
+    width: 80%;
+    text-align: justify;
+}
+
+h1{
+    font-size: 45px;
+}
+
+p{
+    font-size: 23px;
+    margin: 0;
+    line-height: 130%;
+    
+}
