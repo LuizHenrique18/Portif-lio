@@ -13,7 +13,7 @@ function Titulo() {
                 </div>
                 <div className={style.divRight}>
                     <div className={style.divTitulo}>
-                        <h1>
+                        <h1 className={style.titulo}>
                             PORTIFÓLIO
                         </h1>
                         <h1 className={style.tituloName}>

@@ -68,17 +68,21 @@
 
 
     h1{
+        
+    }
+    
+    .titulo{
         font-size: 50px;
         font-weight: bold;
         color: rgb(0, 0, 0);
     }
 
-    h1:hover{
-        transition: 1.2s;
-        color: rgb(124, 124, 124);
-        cursor: pointer;
-    }
-
     .tituloName{
         margin: 0 40px ;
+        font-size: 50px;
+        font-weight: bold;
+        color: rgb(0, 0, 0);
     }
+
+
+    

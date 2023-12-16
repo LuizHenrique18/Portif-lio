@@ -1,34 +1,38 @@
 .divBody{
-    background-color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
 }
 
 .divMain{
     width: 90%;
-    margin: 40px auto;
+    margin: 100px auto;
     height: auto;
-    display: flex;
-    flex-direction: column;
-
     display: flex;
     flex-direction: column;
     gap: 50px;
 }
 
 .divYouTube{
-    width: 850px;
-    height: 550px;
-    background-color: white;
-    margin: 0 auto
+    width: 1150px;
+    height:auto;
+    height: 500px;
 }
 
 .tituloYouTube{
-    margin: 10px 40px;
+    margin: 10px 40px 2px;
 }
 
 .textYouTube{
-    margin: 10px 40px;
+    margin: 4px 40px;
+    font-size: 22px;
 }
 
 .videoYouTube{
+    width: 600px;
     margin: 10px 40px;
+    border: solid 1px black;
+}
+
+.linkToGitHub{
+    font-size: 18px;
+    margin: 0 40px;
 }

@@ -10,11 +10,22 @@ import style from './Icon.module.css'
 function Icon() {
     return (
         <div className={style.icon}>
-            <img className={style.img} src={NodeJs}></img>
-            <img className={style.img}  src={React}></img>
-            <img className={style.img}  src={JavaScript}></img>
-            <img className={style.img}  src={Css}></img>
-            <img className={style.img}  src={Html}></img>
+            <div className={style.divIcon}>
+                <img className={style.img} src={NodeJs}></img>
+            </div>
+            <div className={style.divIcon}>
+                <img className={style.img}  src={React}></img>
+            </div>
+            <div className={style.divIcon}>
+                <img className={style.img}  src={JavaScript}></img>
+            </div>
+            <div className={style.divIcon}>
+                <img className={style.img}  src={Css}></img>
+            </div>
+            <div className={style.divIcon}>
+                <img className={style.img}  src={Html}></img>
+            </div>
+            
         </div>
     )
 }
