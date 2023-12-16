@@ -3,11 +3,10 @@
 .divMain{
     width: 90%;
     margin:0 auto;
-
 }
 
 .divTitle{
-    width: 40%;
+    width: 60%;
     margin: 0 30px 15px;
 }
 
@@ -25,7 +24,8 @@ h1{
 
 p{
     font-size: 23px;
-    margin: 15px 0;
+    margin: 15px 0 35px;
     line-height: 130%;
+    color: rgb(57, 57, 57);
     
 }

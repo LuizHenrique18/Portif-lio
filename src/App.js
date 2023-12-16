@@ -6,6 +6,8 @@ import Titulo from './layout/Pages/Titulo'
 import QuemSouEu from './layout/Pages/QuemSouEu'
 import Icon from './layout/Pages/Icon'
 import Experiences from './layout/Pages/Experiences'
+import Projetos from './layout/Pages/Projetos'
+import Footer from './layout/Footer/Footer'
 
 function App() {
   return (
@@ -15,6 +17,8 @@ function App() {
       <QuemSouEu/>
       <Icon/>
       <Experiences/>
+      <Projetos/>
+      <Footer/>
     </Router>
   );
 }
