@@ -1,10 +1,9 @@
-import style from './Projetos.module.css'
+import style from './Projetos.module.css';
 
 // capa dos vídeos
-
-import image1 from '../helpers/videoImages/image1.jpg'
-import image2 from '../helpers/videoImages/image2.jpg'
-import image3 from '../helpers/videoImages/image1.jpg'
+import image1 from '../helpers/videoImages/image1.jpg';
+import image2 from '../helpers/videoImages/image2.jpg';
+import image3 from '../helpers/videoImages/image1.jpg';
 
 function Projetos () {
     return (

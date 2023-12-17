@@ -7,6 +7,7 @@ import QuemSouEu from './layout/Pages/QuemSouEu'
 import Icon from './layout/Pages/Icon'
 import Experiences from './layout/Pages/Experiences'
 import Projetos from './layout/Pages/Projetos'
+import Contact from './layout/Pages/Contact'
 import Footer from './layout/Footer/Footer'
 
 function App() {
@@ -18,6 +19,7 @@ function App() {
       <Icon/>
       <Experiences/>
       <Projetos/>
+      <Contact/>
       <Footer/>
     </Router>
   );

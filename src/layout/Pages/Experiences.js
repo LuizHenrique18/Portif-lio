@@ -1,4 +1,4 @@
-import style from './Experiences.module.css'
+import style from './Experiences.module.css';
 
 function Experiences () {
     return (

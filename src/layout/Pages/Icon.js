@@ -1,10 +1,10 @@
-import React from '../helpers/img/reactjs.png'
-import JavaScript from '../helpers/img/javascript-39404.png'
-import NodeJs from '../helpers/img/Node.js_logo.svg'
-import Html from '../helpers/img/html.png'
-import Css from '../helpers/img/css.png'
+import React from '../helpers/img/reactjs.png';
+import JavaScript from '../helpers/img/javascript-39404.png';
+import NodeJs from '../helpers/img/Node.js_logo.svg';
+import Html from '../helpers/img/html.png';
+import Css from '../helpers/img/css.png';
  
-import style from './Icon.module.css'
+import style from './Icon.module.css';
 
 
 function Icon() {

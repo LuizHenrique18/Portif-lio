@@ -1,4 +1,4 @@
-import style from './QuemSouEu.module.css'
+import style from './QuemSouEu.module.css';
 
 function QuemSouEu() {
     return (

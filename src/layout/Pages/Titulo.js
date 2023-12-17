@@ -1,7 +1,7 @@
-import { Link } from 'react-router-dom'
+import { Link } from 'react-router-dom';
 
-import style from './Titulo.module.css'
-import capa from '../helpers/img/capa2.jpg'
+import style from './Titulo.module.css';
+import capa from '../helpers/img/capa2.jpg';
 
 
 function Titulo() {
