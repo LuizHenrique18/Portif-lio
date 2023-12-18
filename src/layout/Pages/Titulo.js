@@ -12,14 +12,7 @@ function Titulo() {
                     <Link className={style.buttao}> Entre </Link>
                 </div>
                 <div className={style.divRight}>
-                    <div className={style.divTitulo}>
-                        <h1 className={style.titulo}>
-                            PORTIFÓLIO
-                        </h1>
-                        <h1 className={style.tituloName}>
-                            LUIZ HENRIQUE
-                        </h1>
-                    </div>
+                    
                 </div>
             </div>
         </div>
