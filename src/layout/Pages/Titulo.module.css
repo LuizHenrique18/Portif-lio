@@ -36,30 +36,32 @@
 }
 
 .h2Titulo{
-    margin:20px 0;
-    color: aliceblue;
-    font-size: 40px;
-    width: 400px;
+    margin:15px 0;
+    color: rgba(0, 0, 0, 0.858);
+    font-weight: bold;
+    font-size: 35px;
+    width: 700px;
     text-align: center;
 }
 
     .buttao{
         width: 220px;
         height: 50px;
-        background-color: rgba(205, 71, 18, 0.859);
-        border:solid 1px rgb(255, 255, 255);
+        background-color: rgba(75, 23, 3, 0.859);
+        border:solid 1px rgb(9, 1, 1);
         border-radius: 8px;
         display: flex;
         align-items: center;
         justify-content: center;
         font-size: 25px;
         color: white;
+        font-size: 22px;
     }
 
     .buttao:hover{
         transition: 2.5s;
-        background-color: rgba(192, 63, 12, 0.859);
-        color: rgb(217, 217, 217);
+        background-color: rgba(80, 26, 4, 0.859);
+        color: rgb(194, 187, 187);
     }
 
 .divRight{
@@ -100,4 +102,5 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
+    border-radius: 40px;
 }
