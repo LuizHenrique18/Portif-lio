@@ -14,19 +14,19 @@ function Footer () {
         <div className={style.Footer}>
                 <ul className={style.ul}>
                     <li className={style.li}> 
-                        <img src={instaImage} className={style.imageIcon}></img><a className={style.a} href='/'>Instagram</a>
+                        <img src={instaImage} className={style.imageIcon}></img><a className={style.a} target='_blank'  href='https://www.instagram.com/luizhenriqel/'>Instagram</a>
                     </li>
                     <li className={style.li}>
-                        <img src={wppImage} className={style.imageIcon}></img><a className={style.a} href='/'>WhatsApp</a>
+                        <img src={wppImage} className={style.imageIcon}></img><a className={style.a} target='_blank'  href='https://wa.me/73999885682'>WhatsApp</a>
                     </li>
                     <li className={style.li}>
-                        <img src={linkedinImage} className={style.imageIcon}></img><a className={style.a} href='/'>Linkedin</a>
+                        <img src={linkedinImage} className={style.imageIcon}></img><a className={style.a} target='_blank'  href='https://www.linkedin.com/in/luiz-henrique-lopes-9a8a37218/'>Linkedin</a>
                     </li>
                     <li className={style.li}>
-                        <img src={gitImage} className={style.imageIcon}></img><a className={style.a} href='/'>GitHub</a>
+                        <img src={gitImage} className={style.imageIcon}></img><a className={style.a} target='_blank'  href='https://github.com/LuizHenrique18'>GitHub</a>
                     </li>
                     <li className={style.li}>
-                        <img src={ytbImage} className={style.imageIcon}></img><a className={style.a} href='/'>YouTube</a>
+                        <img src={ytbImage} className={style.imageIcon}></img><a className={style.a} target='_blank'  href='https://www.youtube.com/@LuizHenriqueLopesPereira'>YouTube</a>
                     </li>
                 </ul>
         </div>

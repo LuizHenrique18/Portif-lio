@@ -27,7 +27,7 @@ function Projetos () {
                     <h1 className={style.tituloYouTube}>Interface do Twitter</h1>
                     <p className={style.textYouTube}>Vídeo mostrando detalhadamente como tabom não sei oque vamos verfunciona a interface do twitter. </p>
                     <a href=''><img alt='vídeo' src={image1} className={style.videoYouTube}></img> </a>
-                    <p className={style.linkToGitHub}>Link do repositório no GitHub, <a href=''>Clique Aqui!</a></p>
+                    <p className={style.linkToGitHub}>Link do repositório no GitHub, <a href='https://github.com/LuizHenrique18/Portifolio' target='_blank'>Clique Aqui!</a></p>
                 </div>
             </div>
         </div>
